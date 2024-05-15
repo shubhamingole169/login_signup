@@ -1,5 +1,8 @@
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'singole468@gmail.com'
-EMAIL_HOST_PASSWORD = '92531148'
+
+#Email and password 
+
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT =587
